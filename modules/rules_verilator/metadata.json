@@ -12,7 +12,8 @@
         "github:Pinata-Consulting/rules_verilator"
     ],
     "versions": [
-        "5.034"
+        "5.034",
+        "5.036"
     ],
     "yanked_versions": {}
 }
